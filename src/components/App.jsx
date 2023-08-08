@@ -76,13 +76,13 @@ export class App extends Component {
           toastOptions={{
             duration: 4000,
             style: {
-              backgroundColor: '#ff80ab',
+              backgroundColor: '#f2b5c8',
               color: '#fff',
               borderRadius: '8px',
               boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.2)',
             },
             iconTheme: {
-              primary: '#ff80ab',
+              primary: '#f2b5c8',
               secondary: '#fff',
             },
           }}
